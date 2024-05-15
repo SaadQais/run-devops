@@ -5,5 +5,5 @@
 /Shopping/.vs
 /Shopping/Shopping.Api/bin/Debug/net8.0
 /Shopping/obj/Docker
-Shopping/Shopping.Api/obj/*/
-Shopping/Shopping.Client/obj/*/
+Shopping/Shopping.Api/obj
+Shopping/Shopping.Client/obj
