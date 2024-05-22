@@ -41,7 +41,7 @@ namespace Shopping.Client.Data
                     Name = "Samsung 10",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-2.png",
-                    Price = 845.00M,
+                    Price = 840.00M,
                     Category = "Smart Phone"
                 },
                 new()
